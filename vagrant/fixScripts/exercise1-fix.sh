@@ -1,2 +1,3 @@
 #!/bin/bash
-#add fix to exercise1 here
+sudo apt-get install curl -y
+sudo route delete 208.86.224.90
